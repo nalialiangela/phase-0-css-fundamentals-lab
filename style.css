@@ -3,3 +3,12 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: red;
+}
+p{
+  font-style: italic;
+}
+h3{
+  color: purple;
+}
